@@ -13,7 +13,7 @@ Mrs. Alona K. (M.Sc) for guidance and support.
 
 ## Demo
 You can see a demonstration on [this](https://youtu.be/KDiXJ-Q4mkY) YouTube video:  
-[![IDemo Video](https://img.youtube.com/vi/KDiXJ-Q4mkY/0.jpg)](https://www.youtube.com/watch?v=KDiXJ-Q4mkY)
+[![IDemo Video](https://img.youtube.com/vi/KDiXJ-Q4mkY/1.jpg)](https://www.youtube.com/watch?v=KDiXJ-Q4mkY)
 
 ## How
 Please refer to the article we published for information about the technics used by this software.  
@@ -33,5 +33,5 @@ Navigate to the hosted released version found [here](https://idan5x.github.io/Sw
 More details about how to do this can be found on the published article.
 
 ### On the demo browser
-We wrote for demonstration purposes; this (very) minimal browser can only run on Debian Linux distributions.
+We wrote for demonstration purposes; this (very) minimal browser can only run on Debian Linux distributions.  
 Just download the latest version from the release page & run the browser to test the exploit for your enjoyment.
