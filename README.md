@@ -12,7 +12,7 @@ Mrs. Alona K. (M.Sc) for guidance and support.
 @LiveOverflow for providing educational information.
 
 ## Demo
-You can see a demonstration on [this](https://youtu.be/KDiXJ-Q4mkY) YouTube video:
+You can see a demonstration on [this](https://youtu.be/KDiXJ-Q4mkY) YouTube video:  
 [![IDemo Video](https://img.youtube.com/vi/KDiXJ-Q4mkY/0.jpg)](https://www.youtube.com/watch?v=KDiXJ-Q4mkY)
 
 ## How
