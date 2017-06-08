@@ -3,9 +3,9 @@
 This is a proof-of-concept of jailbreaking the Nintendo Switch console by exploting CVE-2016-4657.
 
 ## Developers
-Idan A. (@iDaN5x)  
-Avraam I. (@avraaif)  
-Netanel O.  
+Idan Asraf (@iDaN5x)  
+Avraam Ifraimov (@avraaif)  
+Netanel Orenstein  
 
 ## Special Thanks
 Mrs. Alona K. (M.Sc) for guidance and support.  
